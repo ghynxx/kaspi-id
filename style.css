@@ -82,7 +82,6 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-end; /* НОВАЯ СТРОКА: Прижимаем кнопки к низу блока */
   padding: 20px 20px 40px;
   box-sizing: border-box;
   background: white;
@@ -90,7 +89,7 @@ h1 {
   position: relative;
   z-index: 2;
   border-top: 1px solid #e2e2e2;
-  margin-top: -33px;
+  margin-top: 289px;
 }
 
 .actions-lower {
